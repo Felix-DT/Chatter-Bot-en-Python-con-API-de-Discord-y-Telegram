@@ -1,0 +1,4 @@
+Libreria para el ChatBot: pip install chatterbot
+Libreria para el Chatterbot Corpus: pip install chatterbot-corpus
+Libreria para discord : pip install -U discord.py
+Libreria para Telegram: pip install pyTelegramBotAPI
